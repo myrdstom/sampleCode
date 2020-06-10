@@ -1,0 +1,17 @@
+.nav-wrapper{
+    background-color:black;
+    color: whitesmoke;
+
+}
+
+/*.brand-logo{
+ 
+}*/
+nav a:hover {
+    background-color:blueviolet;
+  }
+
+  a.active {
+    background-color: #fff;
+    color: #444;
+  }
